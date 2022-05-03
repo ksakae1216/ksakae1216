@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ksakae1216
 - 👀 I’m interested in Angular
 - 🌱 I’m currently learning Angular
-- 📫 My blog is `https://www.ksakae1216.com/archive`
+- 📫 My blog is `https://ksakae1216.com/`
 - :smile: My twitter is `https://twitter.com/beltway7`
 
 <!---
